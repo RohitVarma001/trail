@@ -609,3 +609,8 @@ label {
     width:100px;
     background-color: white;
 }
+@media (min-width: 768px){
+    .contain .card{
+        transition: 0.1 ease-in;
+    }
+}
